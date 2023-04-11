@@ -1,0 +1,13 @@
+{
+  "parameters": [
+    {
+      "name": "Application",
+      "displayName": "Application Type",
+      "values": {
+        "MVC": "Single Page Application",
+        "Blazor": "Web Application",
+        "BlazorServer": "Web API"
+      }
+    }
+  ]
+}

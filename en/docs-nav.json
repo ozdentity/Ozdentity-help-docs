@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "path": "getting-started.md"
+    },
+    {
+      "text": "Application Management",
+      "path": "add-application.md"
+    },
+    {
+      "text": "User Management",
+      "path": "identity.md"
+    },
+    {
+      "text": "Two Factor Authentication",
+      "path": "two-factor-authentication.md"
+    },
+    {
+      "text": "LDAP Login",
+      "path": "ldap.md"
+    },
+    {
+      "text": "OAuth Login",
+      "path": "oauth-login.md"
+    },
+    {
+      "text": "Import External Users",
+      "path": "import-external-users.md"
+    }
+  ]
+}
